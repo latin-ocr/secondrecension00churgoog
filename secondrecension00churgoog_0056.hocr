@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./secondrecension00churgoog_0056.png"; bbox 0 0 3992 5759; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2242 3711 2859 3847">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2265 3711 2859 3847">
+     <span class='ocr_line' id='line_1_1' title="bbox 2265 3711 2835 3797; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 2265 3726 2388 3786; x_wconf 58' lang='grc' dir='ltr'><strong>...ιᾙὮἿ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 2385 3711 2450 3761; x_wconf 54' lang='grc' dir='ltr'><strong>,ΙΨι</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2468 3724 2615 3762; x_wconf 55' lang='lat' dir='ltr'><strong>bont-mn</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2602 3737 2749 3797; x_wconf 50' lang='grc' dir='ltr'><strong>μΪμἹ.»</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2759 3730 2835 3757; x_wconf 51' lang='lat' dir='ltr'><strong>ih..</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 2242 3760 2859 3847; textangle 90"><span class='ocrx_word' id='word_1_6' title='bbox 2242 3770 2333 3822; x_wconf 42' lang='grc' dir='ltr'><strong>ομΐκ.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2325 3788 2434 3847; x_wconf 48' lang='lat' dir='ltr'><strong>..wlff</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2431 3790 2605 3826; x_wconf 31' lang='lat' dir='ltr'><strong>*straza-w.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2595 3760 2654 3833; x_wconf 58' lang='grc' dir='ltr'><strong>..κιρι</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2662 3802 2722 3822; x_wconf 51' lang='lat' dir='ltr'><strong>Pax</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2733 3802 2747 3830; x_wconf 76' lang='grc' dir='ltr'><strong>ν.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2746 3777 2811 3821; x_wconf 29' lang='grc' dir='ltr'><strong>,Ν.4</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2838 3777 2859 3826; x_wconf 50' lang='lat' dir='ltr'>W</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2173 3834 2985 3928">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2169 3834 2985 3928">
+     <span class='ocr_line' id='line_1_3' title="bbox 2173 3834 2985 3928; textangle 90"><span class='ocrx_word' id='word_1_14' title='bbox 2173 3834 2685 3928; x_wconf 47' lang='lat' dir='ltr'><strong>lfffffl-*deffvffflffn</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 2735 3866 2772 3893; x_wconf 61' lang='grc' dir='ltr'><strong>,ἶ</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 2812 3869 2834 3881; x_wconf 66' lang='lat' dir='ltr'><strong>n.</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 2982 3878 2985 3885; x_wconf 66' lang='grc'><strong>,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 3988 5748">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 3988 5748">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 3988 5748; textangle 90"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 3988 5748; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

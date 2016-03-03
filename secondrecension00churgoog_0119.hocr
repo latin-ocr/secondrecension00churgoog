@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./secondrecension00churgoog_0119.png"; bbox 0 0 3992 5759; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2095 4294 2513 4384">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2095 4294 2513 4384">
+     <span class='ocr_line' id='line_1_1' title="bbox 2095 4294 2513 4384; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 2095 4306 2295 4354; x_wconf 47' lang='lat'><em>2⁸2...</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 2306 4294 2430 4384; x_wconf 31' lang='lat' dir='ltr'><em>amem*</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 2478 4302 2513 4334; x_wconf 83' lang='lat'><em>....</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2410 4353 2437 4364">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2410 4353 2437 4364">
+     <span class='ocr_line' id='line_1_2' title="bbox 2410 4353 2437 4364; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 2410 4353 2414 4363; x_wconf 84' lang='lat'><em>‚</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 2435 4361 2437 4364; x_wconf 85' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 3988 5748">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 3988 5748">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 3988 5748; textangle 90"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 3988 5748; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
